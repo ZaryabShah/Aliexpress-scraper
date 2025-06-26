@@ -1,0 +1,24 @@
+{
+  "scraping": {
+    "headless": true,
+    "rate_limit": 5.0,
+    "wait_time": 30,
+    "proxy": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "batch": {
+    "default_limit": 50,
+    "output_dir": "scraped_data",
+    "retry_failed": true,
+    "max_retries": 3
+  },
+  "analysis": {
+    "auto_analyze": true,
+    "generate_charts": false,
+    "export_csv": true
+  },
+  "files": {
+    "urls_file": "9kAliexpresUrls.txt",
+    "requirements_file": "requirements.txt"
+  }
+}

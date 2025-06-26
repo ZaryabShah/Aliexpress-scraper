@@ -282,5 +282,4 @@ This tool is for educational and research purposes. Users are responsible for:
 ## License
 
 This project is provided as-is for educational purposes. Use responsibly and at your own risk.
-#   A l i e x p r e s s - s c r a p e r  
- 
+#
